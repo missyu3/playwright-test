@@ -1,3 +1,11 @@
+# Sample
+下記の記事をもとに書いています。
+- https://qiita.com/miruon/items/579d02eb26834259f034
+
+# 手順
+- yarn create vite react-vite --template react-ts
+- yarn create playwright
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
